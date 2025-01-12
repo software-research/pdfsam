@@ -1,6 +1,6 @@
-name: build
+name: build #10
 
-on: [push]
+on: push
 
 jobs:
   build:
